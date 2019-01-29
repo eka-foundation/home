@@ -1,4 +1,4 @@
-A repository to track work related to various aspects of skynet mesh networks
+A repository to track work related to various aspects of eka
 
 ### Documentation
 There is a [public google drive](https://drive.google.com/drive/folders/1Eoac32SYnjBRZAMkjRXW_v2dNUgWW2CI?usp=sharing) which is used as storage space for documents. Feel free to use it or [contact us](admin@eka.to) for requesting write access.
