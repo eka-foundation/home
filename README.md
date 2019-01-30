@@ -1,5 +1,5 @@
 
-[![eka-banner](images/eka-banner.png)](http://eka.to)
+<a href='http://eka.to'><img width=400 src=https://raw.githubusercontent.com/eka-foundation/home/master/images/eka_logo_white_bg_both.png></a>
 
 ### About
 
