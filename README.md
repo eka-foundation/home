@@ -8,8 +8,8 @@
 
 <p align="center">
   
-  <a href="https://travis-ci.org/autonomio/talos">
-    <img width=200px src="https://raw.githubusercontent.com/eka-foundation/home/master/images/cc-zero.png" alt="License">
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img width=150px src="https://raw.githubusercontent.com/eka-foundation/home/master/images/cc-zero.png" alt="License">
   </a>
 
 </p>
@@ -22,7 +22,7 @@
   <a href="#learn-more">learn more</a> •
   <a href="https://medium.com/eka-foundation">blog</a> •
   <a href="http://eka.to">website</a> •
-  <a href="mailme:admin@eka.to">contact</a> •
+  <a href="mailto:admin@eka.to">contact</a> •
   <a href="https://drive.google.com/drive/folders/1Eoac32SYnjBRZAMkjRXW_v2dNUgWW2CI?usp=sharing">drive</a> •
 </p>
 <hr>
