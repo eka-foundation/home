@@ -29,7 +29,7 @@
 
 ### what?
 
-EKA is a quest to radically change the way communities benefit from internet technology. EKA focuses on providing accessible, resilient, and sustainable alternatives to today’s centralized internet. Our interventions focus on the development of remote trans-himalayan communities, with the goal to support the meaningful and sustainable transformation. EKA work is supported by local community-leaders.
+EKA is a quest to radically change the way communities benefit from internet technology. EKA focuses on providing accessible, resilient, and sustainable alternatives to today’s centralized internet. Our interventions focus on the development of remote trans-himalayan communities, with the goal to support their meaningful and sustainable transformation. EKA work is supported by local community-leaders.
 
 ### how? 
 
