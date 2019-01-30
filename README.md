@@ -17,13 +17,13 @@
 <p align="center">
   <a href="#what">what?</a> •
   <a href="#how">how?</a> •
-  <a href="#Examples">Examples</a> •
-  <a href="#Install">Install</a> •
-  <a href="#learn-more">learn more</a> •
+  <a href="#why">why?</a> •
+  <a href="#where">where?</a> •
   <a href="https://medium.com/eka-foundation">blog</a> •
   <a href="http://eka.to">website</a> •
   <a href="mailto:admin@eka.to">contact</a> •
   <a href="https://drive.google.com/drive/folders/1Eoac32SYnjBRZAMkjRXW_v2dNUgWW2CI?usp=sharing">drive</a> •
+  <a href="#learn-more">learn more</a>
 </p>
 <hr>
 
