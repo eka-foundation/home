@@ -12,6 +12,6 @@ There is a [public google drive](https://drive.google.com/drive/folders/1Eoac32S
 The official eka-foundation blog lives [here](https://medium.com/eka-foundation).
 
 ### Community calls
-Minutes from bi-weekly calls are maintained in a google-doc [here](https://docs.google.com/document/d/1BJg5iUdI2erpt-Bax1HO--vheRbdzaiBUwK0gfhujks/edit?usp=sharing).
+Minutes from bi-weekly calls are maintained in a google-doc [here](https://docs.google.com/document/d/1BJg5iUdI2erpt-Bax1HO--vheRbdzaiBUwK0gfhujks/edit?usp=sharing). [Email us](anishmg@umich.edu), if you'd like to join.
 
 ### [Contact us](admin@eka.to)
