@@ -19,7 +19,7 @@
   <a href="#how">how?</a> •
   <a href="#Examples">Examples</a> •
   <a href="#Install">Install</a> •
-  <a href="#learn_more">learn more</a> •
+  <a href="#learn-more">learn more</a> •
   <a href="https://medium.com/eka-foundation">blog</a> •
   <a href="http://eka.to">website</a> •
   <a href="mailme:admin@eka.to">contact</a> •
