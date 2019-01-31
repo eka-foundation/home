@@ -21,6 +21,7 @@
   <a href="#where">where?</a> •
   <a href="https://medium.com/eka-foundation">blog</a> •
   <a href="http://eka.to">website</a> •
+  <a href="https://www.youtube.com/channel/UCZqLHZKess48Kk42U4-Wl5g">youtube</a> •
   <a href="mailto:admin@eka.to">contact</a> •
   <a href="https://drive.google.com/drive/folders/1Eoac32SYnjBRZAMkjRXW_v2dNUgWW2CI?usp=sharing">drive</a> •
   <a href="#learn-more">learn more</a>
