@@ -70,4 +70,4 @@ EKA’s research focus on identifying means in which the communities can increas
 
 ### Learn more
 
-To learn more, [get in touch] or join a bi-weekly community call. Minutes from bi-weekly calls are maintained in a google-doc [here](https://docs.google.com/document/d/1BJg5iUdI2erpt-Bax1HO--vheRbdzaiBUwK0gfhujks/edit?usp=sharing).
+To learn more, [get in touch](mailto:admin@eka.to) or join a bi-weekly community call. Minutes from bi-weekly calls are maintained in a google-doc [here](https://docs.google.com/document/d/1BJg5iUdI2erpt-Bax1HO--vheRbdzaiBUwK0gfhujks/edit?usp=sharing).
