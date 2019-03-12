@@ -20,7 +20,7 @@
   <a href="#why">why?</a> •
   <a href="#where">where?</a> •
   <a href="https://medium.com/eka-foundation">blog</a> •
-  <a href="http://eka.to">Eka Foundation</a> •
+  <a href="http://eka.to">website</a> •
   <a href="https://www.youtube.com/channel/UCZqLHZKess48Kk42U4-Wl5g">youtube</a> •
   <a href="mailto:admin@eka.to">contact</a> •
   <a href="https://drive.google.com/drive/folders/1Eoac32SYnjBRZAMkjRXW_v2dNUgWW2CI?usp=sharing">drive</a> •
@@ -71,3 +71,6 @@ EKA’s research focus on identifying means in which the communities can increas
 ### Learn more
 
 To learn more, [get in touch](mailto:admin@eka.to) or [join](https://discord.gg/ZwnvdK8) a fortnightly community call. Minutes from these calls are maintained in a google-doc [here](https://docs.google.com/document/d/1BJg5iUdI2erpt-Bax1HO--vheRbdzaiBUwK0gfhujks/edit?usp=sharing).
+
+<hr>
+<a href="http://eka.to">Eka Foundation</a> 2019
