@@ -9,7 +9,7 @@
 <p align="center">
   
   <a href="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png">
-    <img width=150px src="https://raw.githubusercontent.com/eka-foundation/home/master/images/cc-zero.png" alt="License">
+    <img width=150px src="https://raw.githubusercontent.com/eka-foundation/home/master/images/by-sa.png" alt="License">
   </a>
 
 </p>
